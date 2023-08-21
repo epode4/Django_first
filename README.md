@@ -5,7 +5,7 @@ django-admin startproject <pjtname>
 
 2. 가상환경 설정
 ```bash
-python m venv venv
+python -m venv venv
 ```
 
 3. 가상환경 활성화/비활성화
